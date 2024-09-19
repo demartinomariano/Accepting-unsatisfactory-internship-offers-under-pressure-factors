@@ -18,3 +18,6 @@ Internships are widely seen as gateways to the job market, but many students fac
 - Skills acquired (RSA) are a stronger driver for motivation and satisfaction than monetary factors.
 - STEM and Economics students are more affected by monetary factors than students from other fields.
 - Policy suggestions include ensuring quality internship experiences and instituting minimum compensation to reduce distortions in the job market.
+
+## Contact
+For further inquiries, feel free to contact Mariano De Martino at mariano.demartino@studbocconi.it.
