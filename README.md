@@ -2,11 +2,11 @@
 A model-based exploration of the consequences on Italian students
 
 ## Authors
-Lorenzo Barrocu
-Andrea Belletti
-Mariano De Martino
-Francesco Palluda
-Simone Vittorio Percoco
+Lorenzo Barrocu,
+Andrea Belletti,
+Mariano De Martino,
+Francesco Palluda,
+Simone Vittorio Percoco.
 
 ## Abstract
 This repository contains the research project titled "Accepting Unsatisfactory Internship Offers Under Pressure Factors. A Model-based Exploration of the Consequences on Italian Students." The study examines how compulsory internships and low-quality offers affect Italian students' motivation, satisfaction, and retention in the workplace.
